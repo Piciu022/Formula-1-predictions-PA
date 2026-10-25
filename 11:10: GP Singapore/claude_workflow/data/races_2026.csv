@@ -1,0 +1,18 @@
+session_key,session_type,session_name,date_start,date_end,meeting_key,circuit_key,circuit_short_name,country_key,country_code,country_name,location,gmt_offset,year,is_cancelled,round,finished
+11234,Race,Race,2026-03-08 04:00:00+00:00,2026-03-08 06:00:00+00:00,1279,10,Melbourne,5,AUS,Australia,Melbourne,11:00:00,2026,False,1,True
+11245,Race,Race,2026-03-15 07:00:00+00:00,2026-03-15 09:00:00+00:00,1280,49,Shanghai,53,CHN,China,Shanghai,08:00:00,2026,False,2,True
+11253,Race,Race,2026-03-29 05:00:00+00:00,2026-03-29 07:00:00+00:00,1281,46,Suzuka,4,JPN,Japan,Suzuka,09:00:00,2026,False,3,True
+11280,Race,Race,2026-05-03 17:00:00+00:00,2026-05-03 19:00:00+00:00,1284,151,Miami,19,USA,United States,Miami Gardens,-04:00:00,2026,False,4,True
+11291,Race,Race,2026-05-24 20:00:00+00:00,2026-05-24 22:00:00+00:00,1285,23,Montreal,46,CAN,Canada,Montréal,-04:00:00,2026,False,5,True
+11299,Race,Race,2026-06-07 13:00:00+00:00,2026-06-07 15:00:00+00:00,1286,22,Monte Carlo,114,MON,Monaco,Monte Carlo,02:00:00,2026,False,6,True
+11307,Race,Race,2026-06-14 13:00:00+00:00,2026-06-14 15:00:00+00:00,1287,15,Catalunya,1,ESP,Spain,Barcelona,02:00:00,2026,False,7,True
+11315,Race,Race,2026-06-28 13:00:00+00:00,2026-06-28 15:00:00+00:00,1288,19,Spielberg,17,AUT,Austria,Spielberg,02:00:00,2026,False,8,True
+11326,Race,Race,2026-07-05 14:00:00+00:00,2026-07-05 16:00:00+00:00,1289,2,Silverstone,2,GBR,United Kingdom,Silverstone,01:00:00,2026,False,9,True
+11334,Race,Race,2026-07-19 13:00:00+00:00,2026-07-19 15:00:00+00:00,1290,7,Spa-Francorchamps,16,BEL,Belgium,Spa-Francorchamps,02:00:00,2026,False,10,True
+11342,Race,Race,2026-07-26 13:00:00+00:00,2026-07-26 15:00:00+00:00,1291,4,Hungaroring,14,HUN,Hungary,Budapest,02:00:00,2026,False,11,True
+11353,Race,Race,2026-08-23 13:00:00+00:00,2026-08-23 15:00:00+00:00,1292,55,Zandvoort,133,NED,Netherlands,Zandvoort,02:00:00,2026,False,12,True
+11361,Race,Race,2026-09-06 13:00:00+00:00,2026-09-06 15:00:00+00:00,1293,39,Monza,13,ITA,Italy,Monza,02:00:00,2026,False,13,True
+11369,Race,Race,2026-09-13 13:00:00+00:00,2026-09-13 15:00:00+00:00,1294,153,Madring,1,ESP,Spain,Madrid,02:00:00,2026,False,14,True
+11377,Race,Race,2026-09-26 11:00:00+00:00,2026-09-26 13:00:00+00:00,1295,144,Baku,30,AZE,Azerbaijan,Baku,04:00:00,2026,False,15,True
+11731,Race,Race,2026-10-04 07:00:00+00:00,2026-10-04 09:00:00+00:00,1308,12,Kuala Lumpur,36,BRN,Bahrain,Kuala Lumpur,08:00:00,2026,False,16,True
+11388,Race,Race,2026-10-11 12:00:00+00:00,2026-10-11 14:00:00+00:00,1296,61,Singapore,157,SGP,Singapore,Marina Bay,08:00:00,2026,False,17,True

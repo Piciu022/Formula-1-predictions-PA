@@ -1,0 +1,60 @@
+driver_number,race_pos,dnf,quali_pos,name_acronym,full_name,team_name,year
+55,1.0,False,1.0,SAI,Carlos SAINZ,Ferrari,2023
+4,2.0,False,4.0,NOR,Lando NORRIS,McLaren,2023
+44,3.0,False,5.0,HAM,Lewis HAMILTON,Mercedes,2023
+16,4.0,False,3.0,LEC,Charles LECLERC,Ferrari,2023
+1,5.0,False,11.0,VER,Max VERSTAPPEN,Red Bull Racing,2023
+10,6.0,False,12.0,GAS,Pierre GASLY,Alpine,2023
+81,7.0,False,17.0,PIA,Oscar PIASTRI,McLaren,2023
+11,8.0,False,13.0,PER,Sergio PEREZ,Red Bull Racing,2023
+40,9.0,False,10.0,LAW,Liam LAWSON,AlphaTauri,2023
+20,10.0,False,6.0,MAG,Kevin MAGNUSSEN,Haas F1 Team,2023
+23,11.0,False,14.0,ALB,Alexander ALBON,Williams,2023
+24,12.0,False,19.0,ZHO,ZHOU Guanyu,Alfa Romeo,2023
+27,13.0,False,9.0,HUL,Nico HULKENBERG,Haas F1 Team,2023
+2,14.0,False,18.0,SAR,Logan SARGEANT,Williams,2023
+14,15.0,False,7.0,ALO,Fernando ALONSO,Aston Martin,2023
+63,16.0,True,2.0,RUS,George RUSSELL,Mercedes,2023
+77,,True,16.0,BOT,Valtteri BOTTAS,Alfa Romeo,2023
+31,,True,8.0,OCO,Esteban OCON,Alpine,2023
+22,,True,15.0,TSU,Yuki TSUNODA,AlphaTauri,2023
+4,1.0,False,1.0,NOR,Lando NORRIS,McLaren,2024
+1,2.0,False,2.0,VER,Max VERSTAPPEN,Red Bull Racing,2024
+81,3.0,False,5.0,PIA,Oscar PIASTRI,McLaren,2024
+63,4.0,False,4.0,RUS,George RUSSELL,Mercedes,2024
+16,5.0,False,9.0,LEC,Charles LECLERC,Ferrari,2024
+44,6.0,False,3.0,HAM,Lewis HAMILTON,Mercedes,2024
+55,7.0,False,10.0,SAI,Carlos SAINZ,Ferrari,2024
+14,8.0,False,7.0,ALO,Fernando ALONSO,Aston Martin,2024
+27,9.0,False,6.0,HUL,Nico HULKENBERG,Haas F1 Team,2024
+11,10.0,False,13.0,PER,Sergio PEREZ,Red Bull Racing,2024
+43,11.0,False,12.0,COL,Franco COLAPINTO,Williams,2024
+22,12.0,False,8.0,TSU,Yuki TSUNODA,RB,2024
+31,13.0,False,15.0,OCO,Esteban OCON,Alpine,2024
+18,14.0,False,17.0,STR,Lance STROLL,Aston Martin,2024
+24,15.0,False,20.0,ZHO,ZHOU Guanyu,Kick Sauber,2024
+77,16.0,False,19.0,BOT,Valtteri BOTTAS,Kick Sauber,2024
+10,17.0,False,18.0,GAS,Pierre GASLY,Alpine,2024
+3,18.0,False,16.0,RIC,Daniel RICCIARDO,RB,2024
+20,19.0,True,14.0,MAG,Kevin MAGNUSSEN,Haas F1 Team,2024
+23,,True,11.0,ALB,Alexander ALBON,Williams,2024
+63,1.0,False,1.0,RUS,George RUSSELL,Mercedes,2025
+1,2.0,False,2.0,VER,Max VERSTAPPEN,Red Bull Racing,2025
+4,3.0,False,5.0,NOR,Lando NORRIS,McLaren,2025
+81,4.0,False,3.0,PIA,Oscar PIASTRI,McLaren,2025
+12,5.0,False,4.0,ANT,Kimi ANTONELLI,Mercedes,2025
+16,6.0,False,7.0,LEC,Charles LECLERC,Ferrari,2025
+14,7.0,False,10.0,ALO,Fernando ALONSO,Aston Martin,2025
+44,8.0,False,6.0,HAM,Lewis HAMILTON,Ferrari,2025
+87,9.0,False,9.0,BEA,Oliver BEARMAN,Haas F1 Team,2025
+55,10.0,False,,SAI,Carlos SAINZ,Williams,2025
+6,11.0,False,8.0,HAD,Isack HADJAR,Racing Bulls,2025
+22,12.0,False,13.0,TSU,Yuki TSUNODA,Red Bull Racing,2025
+18,13.0,False,15.0,STR,Lance STROLL,Aston Martin,2025
+23,14.0,False,,ALB,Alexander ALBON,Williams,2025
+30,15.0,False,12.0,LAW,Liam LAWSON,Racing Bulls,2025
+43,16.0,False,16.0,COL,Franco COLAPINTO,Alpine,2025
+5,17.0,False,14.0,BOR,Gabriel BORTOLETO,Kick Sauber,2025
+31,18.0,False,17.0,OCO,Esteban OCON,Haas F1 Team,2025
+10,19.0,False,18.0,GAS,Pierre GASLY,Alpine,2025
+27,20.0,False,11.0,HUL,Nico HULKENBERG,Kick Sauber,2025
