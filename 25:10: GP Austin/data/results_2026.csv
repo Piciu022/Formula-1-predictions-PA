@@ -1,0 +1,375 @@
+position,driver_number,number_of_laps,points,dnf,dns,dsq,duration,gap_to_leader,meeting_key,session_key,name_acronym,full_name,team_name,round
+1.0,63,58,25.0,False,False,False,4986.801,0,1279,11234,RUS,George RUSSELL,Mercedes,1
+2.0,12,58,18.0,False,False,False,4989.775,2.974,1279,11234,ANT,Kimi ANTONELLI,Mercedes,1
+3.0,16,58,15.0,False,False,False,5002.32,15.519,1279,11234,LEC,Charles LECLERC,Ferrari,1
+4.0,44,58,12.0,False,False,False,5002.945,16.144,1279,11234,HAM,Lewis HAMILTON,Ferrari,1
+5.0,1,58,10.0,False,False,False,5038.542,51.741,1279,11234,NOR,Lando NORRIS,McLaren,1
+6.0,3,58,8.0,False,False,False,5041.418,54.617,1279,11234,VER,Max VERSTAPPEN,Red Bull Racing,1
+7.0,87,57,6.0,False,False,False,,+1 LAP,1279,11234,BEA,Oliver BEARMAN,Haas F1 Team,1
+8.0,41,57,4.0,False,False,False,,+1 LAP,1279,11234,LIN,Arvid LINDBLAD,Racing Bulls,1
+9.0,5,57,2.0,False,False,False,,+1 LAP,1279,11234,BOR,Gabriel BORTOLETO,Audi,1
+10.0,10,57,1.0,False,False,False,,+1 LAP,1279,11234,GAS,Pierre GASLY,Alpine,1
+11.0,31,57,0.0,False,False,False,,+1 LAP,1279,11234,OCO,Esteban OCON,Haas F1 Team,1
+12.0,23,57,0.0,False,False,False,,+1 LAP,1279,11234,ALB,Alexander ALBON,Williams,1
+13.0,30,57,0.0,False,False,False,,+1 LAP,1279,11234,LAW,Liam LAWSON,Racing Bulls,1
+14.0,43,56,0.0,False,False,False,,+2 LAPS,1279,11234,COL,Franco COLAPINTO,Alpine,1
+15.0,55,56,0.0,False,False,False,,+2 LAPS,1279,11234,SAI,Carlos SAINZ,Williams,1
+16.0,11,55,0.0,False,False,False,,+3 LAPS,1279,11234,PER,Sergio PEREZ,Cadillac,1
+,18,43,0.0,False,False,False,,+15 LAPS,1279,11234,STR,Lance STROLL,Aston Martin,1
+,14,21,0.0,True,False,False,,,1279,11234,ALO,Fernando ALONSO,Aston Martin,1
+,77,15,0.0,True,False,False,,,1279,11234,BOT,Valtteri BOTTAS,Cadillac,1
+,6,10,0.0,True,False,False,,,1279,11234,HAD,Isack HADJAR,Red Bull Racing,1
+,81,0,0.0,False,True,False,,,1279,11234,PIA,Oscar PIASTRI,McLaren,1
+,27,0,0.0,False,True,False,,,1279,11234,HUL,Nico HULKENBERG,Audi,1
+1.0,12,56,25.0,False,False,False,5595.607,0,1280,11245,ANT,Kimi ANTONELLI,Mercedes,2
+2.0,63,56,18.0,False,False,False,5601.122,5.515,1280,11245,RUS,George RUSSELL,Mercedes,2
+3.0,44,56,15.0,False,False,False,5620.874,25.267,1280,11245,HAM,Lewis HAMILTON,Ferrari,2
+4.0,16,56,12.0,False,False,False,5624.501,28.894,1280,11245,LEC,Charles LECLERC,Ferrari,2
+5.0,87,56,10.0,False,False,False,5652.875,57.268,1280,11245,BEA,Oliver BEARMAN,Haas F1 Team,2
+6.0,10,56,8.0,False,False,False,5655.254,59.647,1280,11245,GAS,Pierre GASLY,Alpine,2
+7.0,30,56,6.0,False,False,False,5676.195,80.588,1280,11245,LAW,Liam LAWSON,Racing Bulls,2
+8.0,6,56,4.0,False,False,False,5682.854,87.247,1280,11245,HAD,Isack HADJAR,Red Bull Racing,2
+9.0,55,55,2.0,False,False,False,,+1 LAP,1280,11245,SAI,Carlos SAINZ,Williams,2
+10.0,43,55,1.0,False,False,False,,+1 LAP,1280,11245,COL,Franco COLAPINTO,Alpine,2
+11.0,27,55,0.0,False,False,False,,+1 LAP,1280,11245,HUL,Nico HULKENBERG,Audi,2
+12.0,41,55,0.0,False,False,False,,+1 LAP,1280,11245,LIN,Arvid LINDBLAD,Racing Bulls,2
+13.0,77,55,0.0,False,False,False,,+1 LAP,1280,11245,BOT,Valtteri BOTTAS,Cadillac,2
+14.0,31,55,0.0,False,False,False,,+1 LAP,1280,11245,OCO,Esteban OCON,Haas F1 Team,2
+15.0,11,55,0.0,False,False,False,,+1 LAP,1280,11245,PER,Sergio PEREZ,Cadillac,2
+,3,45,0.0,True,False,False,,,1280,11245,VER,Max VERSTAPPEN,Red Bull Racing,2
+,14,32,0.0,True,False,False,,,1280,11245,ALO,Fernando ALONSO,Aston Martin,2
+,18,9,0.0,True,False,False,,,1280,11245,STR,Lance STROLL,Aston Martin,2
+,81,0,0.0,False,True,False,,,1280,11245,PIA,Oscar PIASTRI,McLaren,2
+,1,0,0.0,False,True,False,,,1280,11245,NOR,Lando NORRIS,McLaren,2
+,5,0,0.0,False,True,False,,,1280,11245,BOR,Gabriel BORTOLETO,Audi,2
+,23,0,0.0,False,True,False,,,1280,11245,ALB,Alexander ALBON,Williams,2
+1.0,12,53,25.0,False,False,False,5283.403,0,1281,11253,ANT,Kimi ANTONELLI,Mercedes,3
+2.0,81,53,18.0,False,False,False,5297.125,13.722,1281,11253,PIA,Oscar PIASTRI,McLaren,3
+3.0,16,53,15.0,False,False,False,5298.673,15.27,1281,11253,LEC,Charles LECLERC,Ferrari,3
+4.0,63,53,12.0,False,False,False,5299.157,15.754,1281,11253,RUS,George RUSSELL,Mercedes,3
+5.0,1,53,10.0,False,False,False,5306.882,23.479,1281,11253,NOR,Lando NORRIS,McLaren,3
+6.0,44,53,8.0,False,False,False,5308.44,25.037,1281,11253,HAM,Lewis HAMILTON,Ferrari,3
+7.0,10,53,6.0,False,False,False,5315.743,32.34,1281,11253,GAS,Pierre GASLY,Alpine,3
+8.0,3,53,4.0,False,False,False,5316.08,32.677,1281,11253,VER,Max VERSTAPPEN,Red Bull Racing,3
+9.0,30,53,2.0,False,False,False,5333.583,50.18,1281,11253,LAW,Liam LAWSON,Racing Bulls,3
+10.0,31,53,1.0,False,False,False,5334.619,51.216,1281,11253,OCO,Esteban OCON,Haas F1 Team,3
+11.0,27,53,0.0,False,False,False,5335.683,52.28,1281,11253,HUL,Nico HULKENBERG,Audi,3
+12.0,6,53,0.0,False,False,False,5339.557,56.154,1281,11253,HAD,Isack HADJAR,Red Bull Racing,3
+13.0,5,53,0.0,False,False,False,5342.481,59.078,1281,11253,BOR,Gabriel BORTOLETO,Audi,3
+14.0,41,53,0.0,False,False,False,5343.251,59.848,1281,11253,LIN,Arvid LINDBLAD,Racing Bulls,3
+15.0,55,53,0.0,False,False,False,5348.411,65.008,1281,11253,SAI,Carlos SAINZ,Williams,3
+16.0,43,53,0.0,False,False,False,5349.176,65.773,1281,11253,COL,Franco COLAPINTO,Alpine,3
+17.0,11,53,0.0,False,False,False,5375.856,92.453,1281,11253,PER,Sergio PEREZ,Cadillac,3
+18.0,14,52,0.0,False,False,False,,+1 LAP,1281,11253,ALO,Fernando ALONSO,Aston Martin,3
+19.0,77,52,0.0,False,False,False,,+1 LAP,1281,11253,BOT,Valtteri BOTTAS,Cadillac,3
+20.0,23,51,0.0,False,False,False,,+2 LAPS,1281,11253,ALB,Alexander ALBON,Williams,3
+,18,30,0.0,True,False,False,,,1281,11253,STR,Lance STROLL,Aston Martin,3
+,87,20,0.0,True,False,False,,,1281,11253,BEA,Oliver BEARMAN,Haas F1 Team,3
+1.0,12,57,25.0,False,False,False,5599.273,0,1284,11280,ANT,Kimi ANTONELLI,Mercedes,4
+2.0,1,57,18.0,False,False,False,5602.537,3.264,1284,11280,NOR,Lando NORRIS,McLaren,4
+3.0,81,57,15.0,False,False,False,5626.365,27.092,1284,11280,PIA,Oscar PIASTRI,McLaren,4
+4.0,63,57,12.0,False,False,False,5642.324,43.051,1284,11280,RUS,George RUSSELL,Mercedes,4
+5.0,3,57,10.0,False,False,False,5648.222,48.949,1284,11280,VER,Max VERSTAPPEN,Red Bull Racing,4
+6.0,44,57,8.0,False,False,False,5653.026,53.753,1284,11280,HAM,Lewis HAMILTON,Ferrari,4
+7.0,43,57,6.0,False,False,False,5661.144,61.871,1284,11280,COL,Franco COLAPINTO,Alpine,4
+8.0,16,57,4.0,False,False,False,5663.518,64.245,1284,11280,LEC,Charles LECLERC,Ferrari,4
+9.0,55,57,2.0,False,False,False,5681.345,82.072,1284,11280,SAI,Carlos SAINZ,Williams,4
+10.0,23,57,1.0,False,False,False,5690.245,90.972,1284,11280,ALB,Alexander ALBON,Williams,4
+11.0,87,56,0.0,False,False,False,,+1 LAP,1284,11280,BEA,Oliver BEARMAN,Haas F1 Team,4
+12.0,5,56,0.0,False,False,False,,+1 LAP,1284,11280,BOR,Gabriel BORTOLETO,Audi,4
+13.0,31,56,0.0,False,False,False,,+1 LAP,1284,11280,OCO,Esteban OCON,Haas F1 Team,4
+14.0,41,56,0.0,False,False,False,,+1 LAP,1284,11280,LIN,Arvid LINDBLAD,Racing Bulls,4
+15.0,14,56,0.0,False,False,False,,+1 LAP,1284,11280,ALO,Fernando ALONSO,Aston Martin,4
+16.0,11,56,0.0,False,False,False,,+1 LAP,1284,11280,PER,Sergio PEREZ,Cadillac,4
+17.0,18,56,0.0,False,False,False,,+1 LAP,1284,11280,STR,Lance STROLL,Aston Martin,4
+18.0,77,55,0.0,False,False,False,,+2 LAPS,1284,11280,BOT,Valtteri BOTTAS,Cadillac,4
+,27,7,0.0,True,False,False,,,1284,11280,HUL,Nico HULKENBERG,Audi,4
+,30,6,0.0,True,False,False,,,1284,11280,LAW,Liam LAWSON,Racing Bulls,4
+,10,4,0.0,True,False,False,,,1284,11280,GAS,Pierre GASLY,Alpine,4
+,6,4,0.0,True,False,False,,,1284,11280,HAD,Isack HADJAR,Red Bull Racing,4
+1.0,12,68,25.0,False,False,False,5295.758,0,1285,11291,ANT,Kimi ANTONELLI,Mercedes,5
+2.0,44,68,18.0,False,False,False,5306.526,10.768,1285,11291,HAM,Lewis HAMILTON,Ferrari,5
+3.0,3,68,15.0,False,False,False,5307.034,11.276,1285,11291,VER,Max VERSTAPPEN,Red Bull Racing,5
+4.0,16,68,12.0,False,False,False,5339.909,44.151,1285,11291,LEC,Charles LECLERC,Ferrari,5
+5.0,6,67,10.0,False,False,False,,+1 LAP,1285,11291,HAD,Isack HADJAR,Red Bull Racing,5
+6.0,43,67,8.0,False,False,False,,+1 LAP,1285,11291,COL,Franco COLAPINTO,Alpine,5
+7.0,30,67,6.0,False,False,False,,+1 LAP,1285,11291,LAW,Liam LAWSON,Racing Bulls,5
+8.0,10,67,4.0,False,False,False,,+1 LAP,1285,11291,GAS,Pierre GASLY,Alpine,5
+9.0,55,67,2.0,False,False,False,,+1 LAP,1285,11291,SAI,Carlos SAINZ,Williams,5
+10.0,87,67,1.0,False,False,False,,+1 LAP,1285,11291,BEA,Oliver BEARMAN,Haas F1 Team,5
+11.0,81,66,0.0,False,False,False,,+2 LAPS,1285,11291,PIA,Oscar PIASTRI,McLaren,5
+12.0,27,66,0.0,False,False,False,,+2 LAPS,1285,11291,HUL,Nico HULKENBERG,Audi,5
+13.0,5,66,0.0,False,False,False,,+2 LAPS,1285,11291,BOR,Gabriel BORTOLETO,Audi,5
+14.0,31,66,0.0,False,False,False,,+2 LAPS,1285,11291,OCO,Esteban OCON,Haas F1 Team,5
+15.0,18,64,0.0,False,False,False,,+4 LAPS,1285,11291,STR,Lance STROLL,Aston Martin,5
+16.0,77,64,0.0,False,False,False,,+4 LAPS,1285,11291,BOT,Valtteri BOTTAS,Cadillac,5
+,11,39,0.0,True,False,False,,,1285,11291,PER,Sergio PEREZ,Cadillac,5
+,1,38,0.0,True,False,False,,,1285,11291,NOR,Lando NORRIS,McLaren,5
+,63,29,0.0,True,False,False,,,1285,11291,RUS,George RUSSELL,Mercedes,5
+,14,23,0.0,True,False,False,,,1285,11291,ALO,Fernando ALONSO,Aston Martin,5
+,23,11,0.0,True,False,False,,,1285,11291,ALB,Alexander ALBON,Williams,5
+,41,0,0.0,False,True,False,,,1285,11291,LIN,Arvid LINDBLAD,Racing Bulls,5
+1.0,12,78,25.0,False,False,False,8611.243,0.0,1286,11299,ANT,Kimi ANTONELLI,Mercedes,6
+2.0,44,78,18.0,False,False,False,8617.514,6.271,1286,11299,HAM,Lewis HAMILTON,Ferrari,6
+3.0,6,78,15.0,False,False,False,8634.637,23.394,1286,11299,HAD,Isack HADJAR,Red Bull Racing,6
+4.0,81,78,12.0,False,False,False,8635.504,24.261,1286,11299,PIA,Oscar PIASTRI,McLaren,6
+5.0,30,78,10.0,False,False,False,8637.796,26.553,1286,11299,LAW,Liam LAWSON,Racing Bulls,6
+6.0,41,78,8.0,False,False,False,8640.253,29.01,1286,11299,LIN,Arvid LINDBLAD,Racing Bulls,6
+7.0,10,78,6.0,False,False,False,8641.612,30.369,1286,11299,GAS,Pierre GASLY,Alpine,6
+8.0,23,78,4.0,False,False,False,8644.656,33.413,1286,11299,ALB,Alexander ALBON,Williams,6
+9.0,31,78,2.0,False,False,False,8648.383,37.14,1286,11299,OCO,Esteban OCON,Haas F1 Team,6
+10.0,14,78,1.0,False,False,False,8653.142,41.899,1286,11299,ALO,Fernando ALONSO,Aston Martin,6
+11.0,5,78,0.0,False,False,False,8653.991,42.748,1286,11299,BOR,Gabriel BORTOLETO,Audi,6
+12.0,63,78,0.0,False,False,False,8654.596,43.353,1286,11299,RUS,George RUSSELL,Mercedes,6
+13.0,27,78,0.0,False,False,False,8655.345,44.102,1286,11299,HUL,Nico HULKENBERG,Audi,6
+14.0,43,78,0.0,False,False,False,8660.207,48.964,1286,11299,COL,Franco COLAPINTO,Alpine,6
+15.0,11,78,0.0,False,False,False,8660.396,49.153,1286,11299,PER,Sergio PEREZ,Cadillac,6
+16.0,55,70,0.0,True,False,False,,,1286,11299,SAI,Carlos SAINZ,Williams,6
+,16,64,0.0,True,False,False,,,1286,11299,LEC,Charles LECLERC,Ferrari,6
+,18,56,0.0,True,False,False,,,1286,11299,STR,Lance STROLL,Aston Martin,6
+,1,43,0.0,True,False,False,,,1286,11299,NOR,Lando NORRIS,McLaren,6
+,87,27,0.0,True,False,False,,,1286,11299,BEA,Oliver BEARMAN,Haas F1 Team,6
+,77,15,0.0,True,False,False,,,1286,11299,BOT,Valtteri BOTTAS,Cadillac,6
+,3,0,0.0,True,False,False,,,1286,11299,VER,Max VERSTAPPEN,Red Bull Racing,6
+1.0,44,66,25.0,False,False,False,5548.105,0,1287,11307,HAM,Lewis HAMILTON,Ferrari,7
+2.0,63,66,18.0,False,False,False,5567.666,19.561,1287,11307,RUS,George RUSSELL,Mercedes,7
+3.0,1,66,15.0,False,False,False,5571.824,23.719,1287,11307,NOR,Lando NORRIS,McLaren,7
+4.0,3,66,12.0,False,False,False,5588.602,40.497,1287,11307,VER,Max VERSTAPPEN,Red Bull Racing,7
+5.0,81,66,10.0,False,False,False,5606.766,58.661,1287,11307,PIA,Oscar PIASTRI,McLaren,7
+6.0,6,65,8.0,False,False,False,,+1 LAP,1287,11307,HAD,Isack HADJAR,Red Bull Racing,7
+7.0,10,65,6.0,False,False,False,,+1 LAP,1287,11307,GAS,Pierre GASLY,Alpine,7
+8.0,30,65,4.0,False,False,False,,+1 LAP,1287,11307,LAW,Liam LAWSON,Racing Bulls,7
+9.0,41,65,2.0,False,False,False,,+1 LAP,1287,11307,LIN,Arvid LINDBLAD,Racing Bulls,7
+10.0,43,65,1.0,False,False,False,,+1 LAP,1287,11307,COL,Franco COLAPINTO,Alpine,7
+11.0,5,64,0.0,False,False,False,,+2 LAPS,1287,11307,BOR,Gabriel BORTOLETO,Audi,7
+12.0,55,64,0.0,False,False,False,,+2 LAPS,1287,11307,SAI,Carlos SAINZ,Williams,7
+13.0,31,64,0.0,False,False,False,,+2 LAPS,1287,11307,OCO,Esteban OCON,Haas F1 Team,7
+14.0,11,63,0.0,False,False,False,,+3 LAPS,1287,11307,PER,Sergio PEREZ,Cadillac,7
+15.0,16,62,0.0,True,False,False,,,1287,11307,LEC,Charles LECLERC,Ferrari,7
+16.0,12,61,0.0,True,False,False,,,1287,11307,ANT,Kimi ANTONELLI,Mercedes,7
+17.0,87,60,0.0,True,False,False,,,1287,11307,BEA,Oliver BEARMAN,Haas F1 Team,7
+,23,55,0.0,False,False,False,,+11 LAPS,1287,11307,ALB,Alexander ALBON,Williams,7
+,14,37,0.0,True,False,False,,,1287,11307,ALO,Fernando ALONSO,Aston Martin,7
+,27,29,0.0,True,False,False,,,1287,11307,HUL,Nico HULKENBERG,Audi,7
+,77,15,0.0,True,False,False,,,1287,11307,BOT,Valtteri BOTTAS,Cadillac,7
+,18,5,0.0,True,False,False,,,1287,11307,STR,Lance STROLL,Aston Martin,7
+1.0,63,71,25.0,False,False,False,5197.979,0,1288,11315,RUS,George RUSSELL,Mercedes,8
+2.0,3,71,18.0,False,False,False,5199.59,1.611,1288,11315,VER,Max VERSTAPPEN,Red Bull Racing,8
+3.0,12,71,15.0,False,False,False,5199.965,1.986,1288,11315,ANT,Kimi ANTONELLI,Mercedes,8
+4.0,81,71,12.0,False,False,False,5219.788,21.809,1288,11315,PIA,Oscar PIASTRI,McLaren,8
+5.0,44,71,10.0,False,False,False,5224.372,26.393,1288,11315,HAM,Lewis HAMILTON,Ferrari,8
+6.0,6,71,8.0,False,False,False,5227.378,29.399,1288,11315,HAD,Isack HADJAR,Red Bull Racing,8
+7.0,1,71,6.0,False,False,False,5229.484,31.505,1288,11315,NOR,Lando NORRIS,McLaren,8
+8.0,16,71,4.0,False,False,False,5243.638,45.659,1288,11315,LEC,Charles LECLERC,Ferrari,8
+9.0,30,70,2.0,False,False,False,,+1 LAP,1288,11315,LAW,Liam LAWSON,Racing Bulls,8
+10.0,41,70,1.0,False,False,False,,+1 LAP,1288,11315,LIN,Arvid LINDBLAD,Racing Bulls,8
+11.0,5,70,0.0,False,False,False,,+1 LAP,1288,11315,BOR,Gabriel BORTOLETO,Audi,8
+12.0,27,70,0.0,False,False,False,,+1 LAP,1288,11315,HUL,Nico HULKENBERG,Audi,8
+13.0,10,70,0.0,False,False,False,,+1 LAP,1288,11315,GAS,Pierre GASLY,Alpine,8
+14.0,87,70,0.0,False,False,False,,+1 LAP,1288,11315,BEA,Oliver BEARMAN,Haas F1 Team,8
+15.0,43,70,0.0,False,False,False,,+1 LAP,1288,11315,COL,Franco COLAPINTO,Alpine,8
+16.0,31,69,0.0,False,False,False,,+2 LAPS,1288,11315,OCO,Esteban OCON,Haas F1 Team,8
+17.0,23,69,0.0,False,False,False,,+2 LAPS,1288,11315,ALB,Alexander ALBON,Williams,8
+18.0,14,68,0.0,False,False,False,,+3 LAPS,1288,11315,ALO,Fernando ALONSO,Aston Martin,8
+,18,45,0.0,True,False,False,,,1288,11315,STR,Lance STROLL,Aston Martin,8
+,55,23,0.0,True,False,False,,,1288,11315,SAI,Carlos SAINZ,Williams,8
+,11,4,0.0,True,False,False,,,1288,11315,PER,Sergio PEREZ,Cadillac,8
+,77,2,0.0,True,False,False,,,1288,11315,BOT,Valtteri BOTTAS,Cadillac,8
+1.0,16,52,25.0,False,False,False,5231.335,0,1289,11326,LEC,Charles LECLERC,Ferrari,9
+2.0,63,52,18.0,False,False,False,5231.762,0.427,1289,11326,RUS,George RUSSELL,Mercedes,9
+3.0,44,52,15.0,False,False,False,5232.107,0.772,1289,11326,HAM,Lewis HAMILTON,Ferrari,9
+4.0,1,52,12.0,False,False,False,5232.484,1.149,1289,11326,NOR,Lando NORRIS,McLaren,9
+5.0,6,52,10.0,False,False,False,5232.933,1.598,1289,11326,HAD,Isack HADJAR,Red Bull Racing,9
+6.0,30,52,8.0,False,False,False,5233.358,2.023,1289,11326,LAW,Liam LAWSON,Racing Bulls,9
+7.0,41,52,6.0,False,False,False,5233.549,2.214,1289,11326,LIN,Arvid LINDBLAD,Racing Bulls,9
+8.0,5,52,4.0,False,False,False,5233.748,2.413,1289,11326,BOR,Gabriel BORTOLETO,Audi,9
+9.0,43,52,2.0,False,False,False,5234.564,3.229,1289,11326,COL,Franco COLAPINTO,Alpine,9
+10.0,10,52,1.0,False,False,False,5234.78,3.445,1289,11326,GAS,Pierre GASLY,Alpine,9
+11.0,81,52,0.0,False,False,False,5235.349,4.014,1289,11326,PIA,Oscar PIASTRI,McLaren,9
+12.0,87,52,0.0,False,False,False,5236.58,5.245,1289,11326,BEA,Oliver BEARMAN,Haas F1 Team,9
+13.0,31,52,0.0,False,False,False,5236.847,5.512,1289,11326,OCO,Esteban OCON,Haas F1 Team,9
+14.0,11,52,0.0,False,False,False,5238.738,7.403,1289,11326,PER,Sergio PEREZ,Cadillac,9
+15.0,12,52,0.0,False,False,False,5239.34,8.005,1289,11326,ANT,Kimi ANTONELLI,Mercedes,9
+16.0,77,52,0.0,False,False,False,5239.497,8.162,1289,11326,BOT,Valtteri BOTTAS,Cadillac,9
+17.0,55,51,0.0,False,False,False,,+1 LAP,1289,11326,SAI,Carlos SAINZ,Williams,9
+18.0,14,51,0.0,False,False,False,,+1 LAP,1289,11326,ALO,Fernando ALONSO,Aston Martin,9
+19.0,18,51,0.0,False,False,False,,+1 LAP,1289,11326,STR,Lance STROLL,Aston Martin,9
+20.0,3,46,0.0,True,False,False,,,1289,11326,VER,Max VERSTAPPEN,Red Bull Racing,9
+,23,43,0.0,True,False,False,,,1289,11326,ALB,Alexander ALBON,Williams,9
+,27,36,0.0,True,False,False,,,1289,11326,HUL,Nico HULKENBERG,Audi,9
+1.0,12,44,25.0,False,False,False,5082.479,0,1290,11334,ANT,Kimi ANTONELLI,Mercedes,10
+2.0,16,44,18.0,False,False,False,5084.431,1.952,1290,11334,LEC,Charles LECLERC,Ferrari,10
+3.0,3,44,15.0,False,False,False,5094.065,11.586,1290,11334,VER,Max VERSTAPPEN,Red Bull Racing,10
+4.0,44,44,12.0,False,False,False,5099.724,17.245,1290,11334,HAM,Lewis HAMILTON,Ferrari,10
+5.0,81,44,10.0,False,False,False,5101.467,18.988,1290,11334,PIA,Oscar PIASTRI,McLaren,10
+6.0,6,44,8.0,False,False,False,5105.786,23.307,1290,11334,HAD,Isack HADJAR,Red Bull Racing,10
+7.0,1,44,6.0,False,False,False,5106.493,24.014,1290,11334,NOR,Lando NORRIS,McLaren,10
+8.0,5,44,4.0,False,False,False,5131.619,49.14,1290,11334,BOR,Gabriel BORTOLETO,Audi,10
+9.0,41,44,2.0,False,False,False,5132.885,50.406,1290,11334,LIN,Arvid LINDBLAD,Racing Bulls,10
+10.0,43,44,1.0,False,False,False,5158.516,76.037,1290,11334,COL,Franco COLAPINTO,Alpine,10
+11.0,10,44,0.0,False,False,False,5159.47,76.991,1290,11334,GAS,Pierre GASLY,Alpine,10
+12.0,30,44,0.0,False,False,False,5160.002,77.523,1290,11334,LAW,Liam LAWSON,Racing Bulls,10
+13.0,27,44,0.0,False,False,False,5160.827,78.348,1290,11334,HUL,Nico HULKENBERG,Audi,10
+14.0,87,44,0.0,False,False,False,5176.944,94.465,1290,11334,BEA,Oliver BEARMAN,Haas F1 Team,10
+15.0,23,44,0.0,False,False,False,5187.163,104.684,1290,11334,ALB,Alexander ALBON,Williams,10
+16.0,55,44,0.0,False,False,False,5188.335,105.856,1290,11334,SAI,Carlos SAINZ,Williams,10
+17.0,31,44,0.0,False,False,False,5193.404,110.925,1290,11334,OCO,Esteban OCON,Haas F1 Team,10
+18.0,77,43,0.0,False,False,False,,+1 LAP,1290,11334,BOT,Valtteri BOTTAS,Cadillac,10
+19.0,14,42,0.0,False,False,False,,+2 LAPS,1290,11334,ALO,Fernando ALONSO,Aston Martin,10
+,18,25,0.0,True,False,False,,,1290,11334,STR,Lance STROLL,Aston Martin,10
+,11,13,0.0,True,False,False,,,1290,11334,PER,Sergio PEREZ,Cadillac,10
+,63,0,0.0,True,False,False,,,1290,11334,RUS,George RUSSELL,Mercedes,10
+1.0,1,70,25.0,False,False,False,5996.18,0,1291,11342,NOR,Lando NORRIS,McLaren,11
+2.0,3,70,18.0,False,False,False,6011.26,15.08,1291,11342,VER,Max VERSTAPPEN,Red Bull Racing,11
+3.0,12,70,15.0,False,False,False,6014.908,18.728,1291,11342,ANT,Kimi ANTONELLI,Mercedes,11
+4.0,16,70,12.0,False,False,False,6020.02,23.84,1291,11342,LEC,Charles LECLERC,Ferrari,11
+5.0,44,70,10.0,False,False,False,6020.72,24.54,1291,11342,HAM,Lewis HAMILTON,Ferrari,11
+6.0,6,70,8.0,False,False,False,6051.668,55.488,1291,11342,HAD,Isack HADJAR,Red Bull Racing,11
+7.0,63,70,6.0,False,False,False,6053.683,57.503,1291,11342,RUS,George RUSSELL,Mercedes,11
+8.0,30,69,4.0,False,False,False,,+1 LAP,1291,11342,LAW,Liam LAWSON,Racing Bulls,11
+9.0,27,69,2.0,False,False,False,,+1 LAP,1291,11342,HUL,Nico HULKENBERG,Audi,11
+10.0,41,69,1.0,False,False,False,,+1 LAP,1291,11342,LIN,Arvid LINDBLAD,Racing Bulls,11
+11.0,5,69,0.0,False,False,False,,+1 LAP,1291,11342,BOR,Gabriel BORTOLETO,Audi,11
+12.0,10,69,0.0,False,False,False,,+1 LAP,1291,11342,GAS,Pierre GASLY,Alpine,11
+13.0,18,69,0.0,False,False,False,,+1 LAP,1291,11342,STR,Lance STROLL,Aston Martin,11
+14.0,14,69,0.0,False,False,False,,+1 LAP,1291,11342,ALO,Fernando ALONSO,Aston Martin,11
+15.0,43,68,0.0,False,False,False,,+2 LAPS,1291,11342,COL,Franco COLAPINTO,Alpine,11
+16.0,31,68,0.0,False,False,False,,+2 LAPS,1291,11342,OCO,Esteban OCON,Haas F1 Team,11
+17.0,23,68,0.0,False,False,False,,+2 LAPS,1291,11342,ALB,Alexander ALBON,Williams,11
+18.0,55,68,0.0,False,False,False,,+2 LAPS,1291,11342,SAI,Carlos SAINZ,Williams,11
+19.0,87,68,0.0,False,False,False,,+2 LAPS,1291,11342,BEA,Oliver BEARMAN,Haas F1 Team,11
+,81,55,0.0,True,False,False,,,1291,11342,PIA,Oscar PIASTRI,McLaren,11
+,11,48,0.0,True,False,False,,,1291,11342,PER,Sergio PEREZ,Cadillac,11
+,77,13,0.0,True,False,False,,,1291,11342,BOT,Valtteri BOTTAS,Cadillac,11
+1.0,1,72,25.0,False,False,False,7484.859,0,1292,11353,NOR,Lando NORRIS,McLaren,12
+2.0,12,72,18.0,False,False,False,7496.395,11.536,1292,11353,ANT,Kimi ANTONELLI,Mercedes,12
+3.0,63,72,15.0,False,False,False,7500.765,15.906,1292,11353,RUS,George RUSSELL,Mercedes,12
+4.0,44,72,12.0,False,False,False,7501.614,16.755,1292,11353,HAM,Lewis HAMILTON,Ferrari,12
+5.0,16,72,10.0,False,False,False,7502.117,17.258,1292,11353,LEC,Charles LECLERC,Ferrari,12
+6.0,81,72,8.0,False,False,False,7517.191,32.332,1292,11353,PIA,Oscar PIASTRI,McLaren,12
+7.0,30,72,6.0,False,False,False,7564.774,79.915,1292,11353,LAW,Liam LAWSON,Red Bull Racing,12
+8.0,27,71,4.0,False,False,False,,+1 LAP,1292,11353,HUL,Nico HULKENBERG,Audi,12
+9.0,14,71,2.0,False,False,False,,+1 LAP,1292,11353,ALO,Fernando ALONSO,Aston Martin,12
+10.0,10,71,1.0,False,False,False,,+1 LAP,1292,11353,GAS,Pierre GASLY,Alpine,12
+11.0,22,71,0.0,False,False,False,,+1 LAP,1292,11353,TSU,Yuki TSUNODA,Racing Bulls,12
+12.0,41,71,0.0,False,False,False,,+1 LAP,1292,11353,LIN,Arvid LINDBLAD,Racing Bulls,12
+13.0,5,71,0.0,False,False,False,,+1 LAP,1292,11353,BOR,Gabriel BORTOLETO,Audi,12
+14.0,43,70,0.0,False,False,False,,+2 LAPS,1292,11353,COL,Franco COLAPINTO,Alpine,12
+15.0,11,70,0.0,False,False,False,,+2 LAPS,1292,11353,PER,Sergio PEREZ,Cadillac,12
+16.0,55,70,0.0,False,False,False,,+2 LAPS,1292,11353,SAI,Carlos SAINZ,Williams,12
+17.0,23,66,0.0,True,False,False,,,1292,11353,ALB,Alexander ALBON,Williams,12
+,77,61,0.0,True,False,False,,,1292,11353,BOT,Valtteri BOTTAS,Cadillac,12
+,31,52,0.0,True,False,False,,,1292,11353,OCO,Esteban OCON,Haas F1 Team,12
+,18,45,0.0,True,False,False,,,1292,11353,STR,Lance STROLL,Aston Martin,12
+,87,2,0.0,True,False,False,,,1292,11353,BEA,Oliver BEARMAN,Haas F1 Team,12
+,3,0,0.0,True,False,False,,,1292,11353,VER,Max VERSTAPPEN,Red Bull Racing,12
+1.0,12,53,25.0,False,False,False,6675.281,0,1293,11361,ANT,Kimi ANTONELLI,Mercedes,13
+2.0,63,53,18.0,False,False,False,6679.138,3.857,1293,11361,RUS,George RUSSELL,Mercedes,13
+3.0,3,53,15.0,False,False,False,6689.999,14.718,1293,11361,VER,Max VERSTAPPEN,Red Bull Racing,13
+4.0,1,53,12.0,False,False,False,6694.337,19.056,1293,11361,NOR,Lando NORRIS,McLaren,13
+5.0,81,53,10.0,False,False,False,6694.534,19.253,1293,11361,PIA,Oscar PIASTRI,McLaren,13
+6.0,44,53,8.0,False,False,False,6699.936,24.655,1293,11361,HAM,Lewis HAMILTON,Ferrari,13
+7.0,10,53,6.0,False,False,False,6702.632,27.351,1293,11361,GAS,Pierre GASLY,Alpine,13
+8.0,41,53,4.0,False,False,False,6720.417,45.136,1293,11361,LIN,Arvid LINDBLAD,Racing Bulls,13
+9.0,43,53,2.0,False,False,False,6722.634,47.353,1293,11361,COL,Franco COLAPINTO,Alpine,13
+10.0,22,53,1.0,False,False,False,6733.468,58.187,1293,11361,TSU,Yuki TSUNODA,Racing Bulls,13
+11.0,5,53,0.0,False,False,False,6740.468,65.187,1293,11361,BOR,Gabriel BORTOLETO,Audi,13
+12.0,27,53,0.0,False,False,False,6741.468,66.187,1293,11361,HUL,Nico HULKENBERG,Audi,13
+13.0,55,53,0.0,False,False,False,6749.398,74.117,1293,11361,SAI,Carlos SAINZ,Williams,13
+14.0,30,53,0.0,False,False,False,6750.89,75.609,1293,11361,LAW,Liam LAWSON,Red Bull Racing,13
+15.0,87,53,0.0,False,False,False,6754.239,78.958,1293,11361,BEA,Oliver BEARMAN,Haas F1 Team,13
+16.0,31,52,0.0,False,False,False,,+1 LAP,1293,11361,OCO,Esteban OCON,Haas F1 Team,13
+17.0,23,52,0.0,False,False,False,,+1 LAP,1293,11361,ALB,Alexander ALBON,Williams,13
+18.0,11,52,0.0,False,False,False,,+1 LAP,1293,11361,PER,Sergio PEREZ,Cadillac,13
+19.0,77,51,0.0,False,False,False,,+2 LAPS,1293,11361,BOT,Valtteri BOTTAS,Cadillac,13
+,18,26,0.0,True,False,False,,,1293,11361,STR,Lance STROLL,Aston Martin,13
+,14,23,0.0,True,False,False,,,1293,11361,ALO,Fernando ALONSO,Aston Martin,13
+,16,1,0.0,True,False,False,,,1293,11361,LEC,Charles LECLERC,Ferrari,13
+1.0,12,57,25.0,False,False,False,5663.754,0,1294,11369,ANT,Kimi ANTONELLI,Mercedes,14
+2.0,3,57,18.0,False,False,False,5668.105,4.351,1294,11369,VER,Max VERSTAPPEN,Red Bull Racing,14
+3.0,1,57,15.0,False,False,False,5668.843,5.089,1294,11369,NOR,Lando NORRIS,McLaren,14
+4.0,16,57,12.0,False,False,False,5692.87,29.116,1294,11369,LEC,Charles LECLERC,Ferrari,14
+5.0,63,57,10.0,False,False,False,5693.583,29.829,1294,11369,RUS,George RUSSELL,Mercedes,14
+6.0,30,57,8.0,False,False,False,5750.5,86.746,1294,11369,LAW,Liam LAWSON,Red Bull Racing,14
+7.0,43,57,6.0,False,False,False,5758.035,94.281,1294,11369,COL,Franco COLAPINTO,Alpine,14
+8.0,81,57,4.0,False,False,False,5759.593,95.839,1294,11369,PIA,Oscar PIASTRI,McLaren,14
+9.0,41,56,2.0,False,False,False,,+1 LAP,1294,11369,LIN,Arvid LINDBLAD,Racing Bulls,14
+10.0,27,56,1.0,False,False,False,,+1 LAP,1294,11369,HUL,Nico HULKENBERG,Audi,14
+11.0,31,56,0.0,False,False,False,,+1 LAP,1294,11369,OCO,Esteban OCON,Haas F1 Team,14
+12.0,10,56,0.0,False,False,False,,+1 LAP,1294,11369,GAS,Pierre GASLY,Alpine,14
+13.0,5,56,0.0,False,False,False,,+1 LAP,1294,11369,BOR,Gabriel BORTOLETO,Audi,14
+14.0,22,56,0.0,False,False,False,,+1 LAP,1294,11369,TSU,Yuki TSUNODA,Racing Bulls,14
+15.0,23,56,0.0,False,False,False,,+1 LAP,1294,11369,ALB,Alexander ALBON,Williams,14
+16.0,87,56,0.0,False,False,False,,+1 LAP,1294,11369,BEA,Oliver BEARMAN,Haas F1 Team,14
+17.0,14,55,0.0,False,False,False,,+2 LAPS,1294,11369,ALO,Fernando ALONSO,Aston Martin,14
+18.0,77,54,0.0,False,False,False,,+3 LAPS,1294,11369,BOT,Valtteri BOTTAS,Cadillac,14
+,55,43,0.0,True,False,False,,,1294,11369,SAI,Carlos SAINZ,Williams,14
+,11,31,0.0,True,False,False,,,1294,11369,PER,Sergio PEREZ,Cadillac,14
+,18,12,0.0,True,False,False,,,1294,11369,STR,Lance STROLL,Aston Martin,14
+,44,6,0.0,True,False,False,,,1294,11369,HAM,Lewis HAMILTON,Ferrari,14
+1.0,63,51,25.0,False,False,False,5882.143,0.0,1295,11377,RUS,George RUSSELL,Mercedes,15
+2.0,3,51,18.0,False,False,False,5882.339,0.196,1295,11377,VER,Max VERSTAPPEN,Red Bull Racing,15
+3.0,6,51,15.0,False,False,False,5892.847,10.704,1295,11377,HAD,Isack HADJAR,Red Bull Racing,15
+4.0,16,51,12.0,False,False,False,5896.279,14.136,1295,11377,LEC,Charles LECLERC,Ferrari,15
+5.0,12,51,10.0,False,False,False,5896.655,14.512,1295,11377,ANT,Kimi ANTONELLI,Mercedes,15
+6.0,44,51,8.0,False,False,False,5904.525,22.382,1295,11377,HAM,Lewis HAMILTON,Ferrari,15
+7.0,41,51,6.0,False,False,False,5913.302,31.159,1295,11377,LIN,Arvid LINDBLAD,Racing Bulls,15
+8.0,31,51,4.0,False,False,False,5913.332,31.189,1295,11377,OCO,Esteban OCON,Haas F1 Team,15
+9.0,87,51,2.0,False,False,False,5914.072,31.929,1295,11377,BEA,Oliver BEARMAN,Haas F1 Team,15
+10.0,55,51,1.0,False,False,False,5914.559,32.416,1295,11377,SAI,Carlos SAINZ,Williams,15
+11.0,27,51,0.0,False,False,False,5915.374,33.231,1295,11377,HUL,Nico HULKENBERG,Audi,15
+12.0,30,51,0.0,False,False,False,5916.156,34.013,1295,11377,LAW,Liam LAWSON,Racing Bulls,15
+13.0,81,51,0.0,False,False,False,5918.544,36.401,1295,11377,PIA,Oscar PIASTRI,McLaren,15
+14.0,11,51,0.0,False,False,False,5923.543,41.4,1295,11377,PER,Sergio PEREZ,Cadillac,15
+15.0,5,51,0.0,False,False,False,5926.373,44.23,1295,11377,BOR,Gabriel BORTOLETO,Audi,15
+16.0,77,49,0.0,True,False,False,,,1295,11377,BOT,Valtteri BOTTAS,Cadillac,15
+,43,36,0.0,True,False,False,,,1295,11377,COL,Franco COLAPINTO,Alpine,15
+,10,35,0.0,True,False,False,,,1295,11377,GAS,Pierre GASLY,Alpine,15
+,1,35,0.0,True,False,False,,,1295,11377,NOR,Lando NORRIS,McLaren,15
+,23,29,0.0,True,False,False,,,1295,11377,ALB,Alexander ALBON,Williams,15
+,14,20,0.0,True,False,False,,,1295,11377,ALO,Fernando ALONSO,Aston Martin,15
+,18,7,0.0,True,False,False,,,1295,11377,STR,Lance STROLL,Aston Martin,15
+1.0,3,55,25.0,False,False,False,6434.808,0.0,1308,11731,VER,Max VERSTAPPEN,Red Bull Racing,16
+2.0,12,55,18.0,False,False,False,6437.115,2.307,1308,11731,ANT,Kimi ANTONELLI,Mercedes,16
+3.0,44,55,15.0,False,False,False,6439.727,4.919,1308,11731,HAM,Lewis HAMILTON,Ferrari,16
+4.0,16,55,12.0,False,False,False,6442.066,7.258,1308,11731,LEC,Charles LECLERC,Ferrari,16
+5.0,6,55,10.0,False,False,False,6443.379,8.571,1308,11731,HAD,Isack HADJAR,Red Bull Racing,16
+6.0,81,55,8.0,False,False,False,6444.262,9.454,1308,11731,PIA,Oscar PIASTRI,McLaren,16
+7.0,30,55,6.0,False,False,False,6447.561,12.753,1308,11731,LAW,Liam LAWSON,Racing Bulls,16
+8.0,14,55,4.0,False,False,False,6448.18,13.372,1308,11731,ALO,Fernando ALONSO,Aston Martin,16
+9.0,1,55,2.0,False,False,False,6448.801,13.993,1308,11731,NOR,Lando NORRIS,McLaren,16
+10.0,41,55,1.0,False,False,False,6450.736,15.928,1308,11731,LIN,Arvid LINDBLAD,Racing Bulls,16
+11.0,27,55,0.0,False,False,False,6452.212,17.404,1308,11731,HUL,Nico HULKENBERG,Audi,16
+12.0,18,55,0.0,False,False,False,6452.86,18.052,1308,11731,STR,Lance STROLL,Aston Martin,16
+13.0,43,55,0.0,False,False,False,6453.805,18.997,1308,11731,COL,Franco COLAPINTO,Alpine,16
+14.0,87,55,0.0,False,False,False,6457.113,22.305,1308,11731,BEA,Oliver BEARMAN,Haas F1 Team,16
+15.0,31,55,0.0,False,False,False,6457.34,22.532,1308,11731,OCO,Esteban OCON,Haas F1 Team,16
+16.0,10,55,0.0,False,False,False,6458.123,23.315,1308,11731,GAS,Pierre GASLY,Alpine,16
+17.0,55,55,0.0,False,False,False,6460.239,25.431,1308,11731,SAI,Carlos SAINZ,Williams,16
+18.0,5,55,0.0,False,False,False,6463.041,28.233,1308,11731,BOR,Gabriel BORTOLETO,Audi,16
+19.0,11,55,0.0,False,False,False,6464.118,29.31,1308,11731,PER,Sergio PEREZ,Cadillac,16
+20.0,63,49,0.0,True,False,False,,,1308,11731,RUS,George RUSSELL,Mercedes,16
+,23,41,0.0,True,False,False,,,1308,11731,ALB,Alexander ALBON,Williams,16
+,77,7,0.0,True,False,False,,,1308,11731,BOT,Valtteri BOTTAS,Cadillac,16
+1.0,3,62,25.0,False,False,False,6120.785,0,1296,11388,VER,Max VERSTAPPEN,Red Bull Racing,17
+2.0,16,62,18.0,False,False,False,6128.12,7.335,1296,11388,LEC,Charles LECLERC,Ferrari,17
+3.0,12,62,15.0,False,False,False,6145.358,24.573,1296,11388,ANT,Kimi ANTONELLI,Mercedes,17
+4.0,1,62,12.0,False,False,False,6161.291,40.506,1296,11388,NOR,Lando NORRIS,McLaren,17
+5.0,81,62,10.0,False,False,False,6170.429,49.644,1296,11388,PIA,Oscar PIASTRI,McLaren,17
+6.0,44,62,8.0,False,False,False,6173.973,53.188,1296,11388,HAM,Lewis HAMILTON,Ferrari,17
+7.0,30,62,6.0,False,False,False,6202.451,81.666,1296,11388,LAW,Liam LAWSON,Racing Bulls,17
+8.0,27,62,4.0,False,False,False,6204.171,83.386,1296,11388,HUL,Nico HULKENBERG,Audi,17
+9.0,63,62,2.0,False,False,False,6205.462,84.677,1296,11388,RUS,George RUSSELL,Mercedes,17
+10.0,6,62,1.0,False,False,False,6211.647,90.862,1296,11388,HAD,Isack HADJAR,Red Bull Racing,17
+11.0,10,61,0.0,False,False,False,,+1 LAP,1296,11388,GAS,Pierre GASLY,Alpine,17
+12.0,87,61,0.0,False,False,False,,+1 LAP,1296,11388,BEA,Oliver BEARMAN,Haas F1 Team,17
+13.0,31,61,0.0,False,False,False,,+1 LAP,1296,11388,OCO,Esteban OCON,Haas F1 Team,17
+14.0,55,61,0.0,False,False,False,,+1 LAP,1296,11388,SAI,Carlos SAINZ,Williams,17
+15.0,41,61,0.0,False,False,False,,+1 LAP,1296,11388,LIN,Arvid LINDBLAD,Racing Bulls,17
+16.0,14,61,0.0,False,False,False,,+1 LAP,1296,11388,ALO,Fernando ALONSO,Aston Martin,17
+17.0,11,60,0.0,False,False,False,,+2 LAPS,1296,11388,PER,Sergio PEREZ,Cadillac,17
+18.0,23,59,0.0,True,False,False,,,1296,11388,ALB,Alexander ALBON,Williams,17
+19.0,77,59,0.0,False,False,False,,+3 LAPS,1296,11388,BOT,Valtteri BOTTAS,Cadillac,17
+,18,36,0.0,True,False,False,,,1296,11388,STR,Lance STROLL,Aston Martin,17
+,43,29,0.0,True,False,False,,,1296,11388,COL,Franco COLAPINTO,Alpine,17
+,5,7,0.0,True,False,False,,,1296,11388,BOR,Gabriel BORTOLETO,Audi,17
