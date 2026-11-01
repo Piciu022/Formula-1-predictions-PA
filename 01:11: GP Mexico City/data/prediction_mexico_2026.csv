@@ -1,23 +1,23 @@
 predicted_position,name_acronym,team_name,start_pos,pred_pos,winner,podium,top10,frozen_at
-1,HAM,Ferrari,1.0,2.3,True,True,True,2026-11-01 16:35:33 UTC
-2,RUS,Mercedes,2.0,3.0,False,True,True,2026-11-01 16:35:33 UTC
-3,LEC,Ferrari,3.0,3.17,False,True,True,2026-11-01 16:35:33 UTC
-4,ANT,Mercedes,5.0,3.95,False,False,True,2026-11-01 16:35:33 UTC
-5,VER,Red Bull Racing,4.0,4.03,False,False,True,2026-11-01 16:35:33 UTC
-6,NOR,McLaren,6.0,5.27,False,False,True,2026-11-01 16:35:33 UTC
-7,HAD,Red Bull Racing,7.0,6.36,False,False,True,2026-11-01 16:35:33 UTC
-8,LIN,Racing Bulls,8.0,8.21,False,False,True,2026-11-01 16:35:33 UTC
-9,GAS,Alpine,9.0,8.28,False,False,True,2026-11-01 16:35:33 UTC
-10,PIA,McLaren,12.0,8.75,False,False,True,2026-11-01 16:35:33 UTC
-11,HUL,Audi,10.0,9.29,False,False,False,2026-11-01 16:35:33 UTC
-12,COL,Alpine,11.0,9.98,False,False,False,2026-11-01 16:35:33 UTC
-13,BOR,Audi,13.0,10.89,False,False,False,2026-11-01 16:35:33 UTC
-14,BEA,Haas F1 Team,14.0,11.93,False,False,False,2026-11-01 16:35:33 UTC
-15,SAI,Williams,15.0,12.66,False,False,False,2026-11-01 16:35:33 UTC
-16,ALB,Williams,16.0,13.34,False,False,False,2026-11-01 16:35:33 UTC
-17,HIR,Haas F1 Team,18.0,13.38,False,False,False,2026-11-01 16:35:33 UTC
-18,LAW,Racing Bulls,22.0,15.19,False,False,False,2026-11-01 16:35:33 UTC
-19,ALO,Aston Martin,17.0,15.36,False,False,False,2026-11-01 16:35:33 UTC
-20,STR,Aston Martin,19.0,16.72,False,False,False,2026-11-01 16:35:33 UTC
-21,PER,Cadillac,20.0,16.8,False,False,False,2026-11-01 16:35:33 UTC
-22,BOT,Cadillac,21.0,18.28,False,False,False,2026-11-01 16:35:33 UTC
+1,HAM,Ferrari,1.0,2.3,True,True,True,2026-11-01 16:36:40 UTC
+2,RUS,Mercedes,2.0,3.0,False,True,True,2026-11-01 16:36:40 UTC
+3,LEC,Ferrari,3.0,3.17,False,True,True,2026-11-01 16:36:40 UTC
+4,ANT,Mercedes,5.0,3.95,False,False,True,2026-11-01 16:36:40 UTC
+5,VER,Red Bull Racing,4.0,4.03,False,False,True,2026-11-01 16:36:40 UTC
+6,NOR,McLaren,6.0,5.27,False,False,True,2026-11-01 16:36:40 UTC
+7,HAD,Red Bull Racing,7.0,6.36,False,False,True,2026-11-01 16:36:40 UTC
+8,LIN,Racing Bulls,8.0,8.21,False,False,True,2026-11-01 16:36:40 UTC
+9,GAS,Alpine,9.0,8.28,False,False,True,2026-11-01 16:36:40 UTC
+10,PIA,McLaren,12.0,8.75,False,False,True,2026-11-01 16:36:40 UTC
+11,HUL,Audi,10.0,9.29,False,False,False,2026-11-01 16:36:40 UTC
+12,COL,Alpine,11.0,9.98,False,False,False,2026-11-01 16:36:40 UTC
+13,BOR,Audi,13.0,10.89,False,False,False,2026-11-01 16:36:40 UTC
+14,BEA,Haas F1 Team,14.0,11.93,False,False,False,2026-11-01 16:36:40 UTC
+15,SAI,Williams,15.0,12.66,False,False,False,2026-11-01 16:36:40 UTC
+16,ALB,Williams,16.0,13.34,False,False,False,2026-11-01 16:36:40 UTC
+17,HIR,Haas F1 Team,18.0,13.38,False,False,False,2026-11-01 16:36:40 UTC
+18,LAW,Racing Bulls,22.0,15.19,False,False,False,2026-11-01 16:36:40 UTC
+19,ALO,Aston Martin,17.0,15.36,False,False,False,2026-11-01 16:36:40 UTC
+20,STR,Aston Martin,19.0,16.72,False,False,False,2026-11-01 16:36:40 UTC
+21,PER,Cadillac,20.0,16.8,False,False,False,2026-11-01 16:36:40 UTC
+22,BOT,Cadillac,21.0,18.28,False,False,False,2026-11-01 16:36:40 UTC
